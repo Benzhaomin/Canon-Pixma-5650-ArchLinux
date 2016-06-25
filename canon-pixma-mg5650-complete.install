@@ -14,7 +14,7 @@ post_install() {
    echo -e "\e[1m\e[97m\e[44m==>\e[0m   "
    echo -e "\e[1m\e[97m\e[44m==>\e[0m   \e[1m2.b\e[0m If connected via (W)LAN:"
    echo -e "\e[1m\e[97m\e[44m==>\e[0m       run command"
-   echo -e "\e[1m\e[97m\e[44m==>\e[0m          \e[47m\e[30mcnijlgmon3 --installer --search auto\e[0m"
+   echo -e "\e[1m\e[97m\e[44m==>\e[0m          \e[47m\e[30mcnijlgmon3\e[0m"
    echo -e "\e[1m\e[97m\e[44m==>\e[0m   "
    echo -e "\e[1m\e[97m\e[44m==>\e[0m   \e[1m3.\e[0m  Identify your printer's address (starting with 'cnijbe2:/' or"
    echo -e "\e[1m\e[97m\e[44m==>\e[0m       'cnijusb:/') provided by above command"
